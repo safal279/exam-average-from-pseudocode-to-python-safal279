@@ -1,8 +1,18 @@
-# Assignment: Calculate Average of Three Scores
-  # Instructions:
-  # 1. Remove these comments after you understand the requested operation.
-  # 2. Write the pseudocode as multi-line comments at the top. Include calling the function.
-  # 3. Then write the Python code with comments explaining each line.
+"""
+Full Name:
+Class-Section:
+Assignment Title:
+Submission Date:
+"""
+"""
+Write your pseudocode here.
+Do not write any Python code in this section.
+Your pseudocode should describe your overall approach in your own words.
+"""
 
-  # Call the function to test
-  calculate_average()
+# Your Python code begins below this line.
+# Every line you write must have a comment directly above it.
+
+# Call your function when your program is ready
+calculate_average()   
+  
